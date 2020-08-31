@@ -1,0 +1,8 @@
+Metodo: Es un "comando" que llamamos dentro del código para generar un suceso.
+Variable: Una variable es un espacio en la memoria donde se almacena un tipo de dato. Este tipo de
+	  dato puede ser:  integer (entero, numeros enteros (1, 100, 10, etc))
+			   string  ('linea'; son todas las letras del abecedario)
+			   float   (numeros decimales (3.14159265 (se usan puntos no comas))
+			   bool    (almacenan si una variable es verdadera o falsa. esta es
+				   un poco más complicada de explicar; se verá más adelante)
+
